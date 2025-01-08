@@ -1,6 +1,6 @@
-|-- .gitignore
 |-- Backend
     |-- .env
+    |-- .gitignore
     |-- app.js
     |-- package-lock.json
     |-- package.json
