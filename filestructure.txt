@@ -1,0 +1,36 @@
+|-- .gitignore
+|-- Backend
+    |-- .env
+    |-- app.js
+    |-- package-lock.json
+    |-- package.json
+    |-- utils
+        |-- langflowclient.js
+|-- Frontend
+    |-- README.md
+    |-- eslint.config.js
+    |-- index.html
+    |-- package-lock.json
+    |-- package.json
+    |-- postcss.config.js
+    |-- public
+        |-- vite.svg
+    |-- src
+        |-- App.jsx
+        |-- assets
+            |-- react.svg
+        |-- components
+            |-- BarChartComponent.jsx
+            |-- ChatMessage.jsx
+            |-- LineGraphComponent.jsx
+            |-- LoadingDots.jsx
+            |-- PostTypeSelector.jsx
+        |-- index.css
+        |-- main.jsx
+        |-- pages
+            |-- ChatInterface.jsx
+        |-- store
+            |-- PostTypeStore.js
+    |-- tailwind.config.js
+    |-- vite.config.js
+|-- README.md
